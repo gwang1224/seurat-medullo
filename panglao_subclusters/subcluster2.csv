@@ -1,4 +1,3 @@
-Species,Gene,Study/sample identifier,Cluster Index,Sampled Tissue,Inferred Cell Type,Rank
 Homo_sapiens	CCL3	SRA768499_SRS3744981	2	NK cells from blood	Gamma delta T cells	117
 Homo_sapiens	CCL3	SRA645804_SRS2823412	14	Testis	Dendritic cells	152
 Homo_sapiens	CCL3	SRA645804_SRS2823408	22	Testis	Dendritic cells	182

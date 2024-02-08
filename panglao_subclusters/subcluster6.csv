@@ -1,4 +1,3 @@
-Species,Gene,Study/sample identifier,Cluster Index,Sampled Tissue,Inferred Cell Type,Rank
 Homo_sapiens	DUT	SRA667709_SRS3065431	15	Testicle	Germ cells	34
 Homo_sapiens	DUT	SRA645804_SRS2823408	6	Testis	Germ cells	36
 Homo_sapiens	DUT	SRA667709_SRS3065428	4	Testicle	Germ cells	38
