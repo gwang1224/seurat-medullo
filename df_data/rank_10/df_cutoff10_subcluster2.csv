@@ -1,0 +1,11 @@
+,CHN2,RGS16,CCL3,HAVCR2,RBPJ,NKG7,TNFRSF9,CXCR6,ITGAV,LAG3,SETBP1,TMEM163,CCL4
+Gamma delta T cells,0,0,0,0,0,37,0,0,0,0,0,0,2
+Monocytes,0,0,0,0,0,0,0,0,0,0,0,0,1
+NK cells,0,0,0,0,0,27,0,0,0,0,0,0,1
+T cells,0,0,0,0,0,3,0,0,0,0,0,0,0
+Plasmacytoid dendritic cells,0,0,0,0,0,0,0,0,0,0,0,0,1
+Macrophages,0,0,1,0,0,0,0,0,0,0,0,0,8
+T memory cells,0,0,0,0,0,3,0,0,0,0,0,0,0
+Neutrophils,0,0,1,0,0,0,0,0,0,0,0,0,3
+Basophils,0,0,6,0,0,0,0,0,0,0,0,0,4
+Microglia,0,0,8,0,0,0,0,0,0,0,0,0,21

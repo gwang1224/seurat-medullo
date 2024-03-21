@@ -1,0 +1,64 @@
+,TXNIP,CRIP1,HSPA1A,UBA52,ITGB1,HSPA1B,S100A10,CXCR3,KLF2,CCL5,JUN,DNAJC15,FGF13
+Gamma delta T cells,0,0,0,0,0,0,0,0,0,14,1,0,0
+NK cells,0,0,0,0,0,0,1,0,3,86,0,0,0
+T cells,2,30,1,0,0,0,1,0,0,28,0,0,0
+Platelets,0,0,0,0,0,0,0,0,0,1,0,0,0
+Monocytes,0,1,0,0,0,0,0,0,0,0,0,0,0
+Luminal epithelial cells,0,0,1,0,0,0,0,0,0,0,1,0,0
+Plasma cells,0,0,1,0,0,1,0,0,0,0,12,0,0
+Erythroid-like and erythroid precursor cells,0,0,0,0,0,0,0,0,0,1,0,0,0
+Fibroblasts,0,20,22,0,0,1,1,0,0,0,55,0,0
+Cholangiocytes,0,0,2,0,0,0,1,0,0,0,4,0,0
+Langerhans cells,0,0,1,0,0,0,0,0,0,0,0,0,0
+Peritubular myoid cells,0,0,0,0,0,0,0,0,0,0,5,0,0
+Dendritic cells,0,11,3,0,0,0,0,0,0,8,3,0,0
+Epithelial cells,0,2,0,0,0,0,0,0,0,0,1,0,0
+Acinar cells,0,0,0,0,0,0,0,0,0,0,5,0,0
+Enterocytes,0,102,0,0,0,0,2,0,0,4,0,0,0
+Ductal cells,0,0,0,0,0,0,0,0,0,0,3,0,0
+Pancreatic stellate cells,0,0,1,0,0,1,0,0,0,0,2,0,0
+Basal cells,0,0,10,0,0,1,2,0,0,0,0,0,0
+B cells,0,3,2,0,0,1,0,0,0,1,2,0,0
+Goblet cells,0,5,0,0,0,0,0,0,0,0,0,0,0
+Macrophages,0,51,5,0,0,0,0,0,5,4,9,0,0
+Pulmonary alveolar type II cells,0,0,0,0,0,0,1,0,0,0,1,0,0
+Endothelial cells,0,6,16,0,0,1,2,0,65,0,63,0,0
+Keratinocytes,0,0,1,0,0,0,0,0,0,0,7,0,0
+Smooth muscle cells,0,56,2,0,1,1,0,0,0,0,16,0,0
+Ependymal cells,0,2,0,0,0,0,0,0,0,0,6,0,0
+Mesothelial cells,0,16,0,0,0,0,0,0,0,0,0,0,0
+Mast cells,0,0,2,0,0,1,0,0,0,0,1,0,0
+Enteric glia cells,0,0,1,0,0,1,0,0,0,0,5,0,0
+Salivary mucous cells,0,0,1,0,0,0,0,0,0,0,0,0,0
+Astrocytes,0,0,4,0,0,0,0,0,0,0,0,0,0
+Serotonergic neurons,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mammary epithelial cells,0,0,1,0,0,0,0,0,0,0,2,0,0
+Pericytes,0,26,6,0,1,0,0,0,0,0,9,0,0
+Loop of Henle cells,0,0,0,0,0,0,0,0,0,0,1,0,0
+Hepatic stellate cells,0,0,1,0,0,0,0,0,0,0,2,0,0
+Spermatocytes,0,0,0,0,0,0,0,0,0,0,1,0,0
+Myoepithelial cells,0,0,0,0,0,0,1,0,0,0,12,0,0
+T memory cells,0,5,1,0,0,0,0,0,0,15,0,0,0
+Clara cells,0,2,0,0,0,0,0,0,0,0,0,0,0
+Neutrophils,0,5,0,0,0,0,0,0,0,0,0,0,0
+Enteroendocrine cells,0,0,0,0,0,0,0,0,0,0,1,0,0
+Paneth cells,0,12,0,0,0,0,0,0,0,3,0,0,0
+Microglia,0,0,3,0,0,0,0,0,2,1,40,0,0
+Alveolar macrophages,0,6,0,0,0,0,0,0,0,0,0,0,0
+Tuft cells,0,7,0,0,0,0,0,0,0,0,0,0,0
+Nuocytes,0,4,0,0,0,0,0,0,0,0,0,0,0
+Juxtaglomerular cells,0,1,0,0,0,0,0,0,0,0,0,0,0
+T regulatory cells,0,2,0,0,0,0,0,0,0,0,0,0,0
+Myofibroblasts,0,1,0,0,0,0,0,0,0,0,0,0,0
+Schwann cells,0,4,0,0,0,0,0,0,0,0,7,0,0
+Decidual cells,0,1,0,0,0,0,0,0,0,0,0,0,0
+Basophils,0,0,0,0,0,0,0,0,0,0,4,0,0
+Endothelial cells (aorta),0,0,0,0,0,0,0,0,2,0,0,0,0
+Podocytes,0,0,0,0,0,0,0,0,0,0,15,0,0
+Neurons,0,0,0,0,0,0,0,0,0,0,1,0,0
+Trigeminal neurons,0,0,0,0,0,0,6,0,0,0,0,0,1
+Vascular smooth muscle cells,0,0,0,0,0,0,0,0,1,0,1,0,0
+Stromal cells,0,0,0,0,0,0,0,0,0,0,1,0,0
+Anterior pituitary gland cells,0,0,4,0,0,0,0,0,0,0,0,0,0
+Intercalated cells,0,0,0,0,0,0,0,0,0,0,1,0,0
+Oligodendrocyte progenitor cells,0,0,0,0,0,0,0,0,0,0,20,0,0

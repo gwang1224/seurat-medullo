@@ -1,0 +1,93 @@
+,ZBTB20,UTRN,MTCO2,TCF12,STAT4,MTND2,MTCYTB,CCND3,ST6GALNAC3,MTATP6,TRPS1,ARL15,MTCO3
+Endothelial cells,0,0,5,0,0,2,51,0,0,2,0,0,8
+B cells,0,0,2,0,0,0,9,0,0,0,0,0,2
+Platelets,0,0,2,0,0,0,0,0,0,0,0,0,0
+Gamma delta T cells,0,0,6,0,0,0,0,0,0,0,0,0,4
+Erythroid-like and erythroid precursor cells,0,0,5,0,0,2,3,0,0,0,0,0,7
+T cells,0,0,3,0,0,0,8,0,0,2,0,0,5
+NK cells,0,0,3,0,0,0,0,0,0,0,0,0,2
+T memory cells,0,0,0,0,0,0,11,0,0,0,0,0,0
+Dendritic cells,0,0,5,0,0,1,0,0,0,0,0,0,10
+Langerhans cells,0,0,7,0,0,0,0,0,0,0,0,0,1
+Plasma cells,0,0,3,0,0,0,0,0,0,1,0,0,3
+Pulmonary alveolar type II cells,0,0,0,0,0,0,2,0,0,0,0,0,1
+Mesothelial cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Basal cells,0,0,12,0,0,3,0,0,0,0,0,0,22
+Macrophages,0,0,3,0,0,0,3,0,0,0,0,0,2
+Luminal epithelial cells,0,0,6,0,0,0,2,0,0,0,0,0,6
+Enterocytes,0,0,3,0,0,0,58,0,0,1,0,0,3
+Cholangiocytes,0,0,36,0,0,2,0,0,0,1,0,0,37
+Ductal cells,0,0,5,0,0,0,0,0,0,0,0,0,3
+Hepatocytes,0,0,27,0,0,5,13,0,0,7,0,0,24
+Keratinocytes,0,0,4,0,0,1,8,0,0,0,0,0,1
+Spermatocytes,0,0,10,0,0,21,0,0,0,3,0,0,29
+Peritubular myoid cells,0,0,1,0,0,3,0,0,0,1,0,0,12
+Germ cells,0,0,84,0,0,13,16,0,0,1,0,0,93
+Fibroblasts,0,0,4,0,0,0,11,0,0,0,0,0,13
+Smooth muscle cells,0,0,4,0,0,0,34,0,0,0,0,0,9
+Epithelial cells,0,0,19,0,0,0,7,0,0,0,0,0,7
+Goblet cells,0,0,11,0,0,1,3,0,0,0,0,0,10
+Salivary mucous cells,0,0,1,0,0,1,1,0,0,0,0,0,1
+Leydig cells,0,0,0,0,0,0,3,0,0,0,0,0,1
+Pericytes,0,0,0,0,0,1,13,0,0,0,0,0,2
+Clara cells,0,0,0,0,0,0,10,0,0,0,0,0,0
+Enteroendocrine cells,0,0,9,0,0,2,10,0,0,0,0,0,12
+Ependymal cells,0,0,3,0,0,2,12,0,0,0,0,0,2
+B cells naive,0,0,1,0,0,0,0,0,0,0,0,0,1
+Monocytes,0,0,1,0,0,0,0,0,0,0,0,0,1
+Serotonergic neurons,0,0,1,0,0,0,0,0,0,0,0,0,0
+Beta cells,0,0,12,0,0,0,7,0,0,0,0,0,6
+Myoepithelial cells,0,0,0,0,0,0,5,0,0,0,0,0,0
+Adipocytes,0,0,1,0,0,1,1,0,0,0,0,0,0
+Oligodendrocyte progenitor cells,0,0,0,0,0,0,26,0,0,1,0,0,0
+Neurons,0,0,1,0,0,2,116,0,0,2,0,0,4
+Oligodendrocytes,0,0,0,0,0,0,7,0,0,1,0,0,0
+Delta cells,0,0,3,0,0,0,0,0,0,0,0,0,0
+Neutrophils,0,0,0,0,0,0,1,0,0,0,0,0,0
+Astrocytes,0,0,0,0,0,0,54,0,0,1,0,0,0
+Alpha cells,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mammary epithelial cells,0,0,0,0,0,0,3,0,0,0,0,0,0
+Hepatic stellate cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Acinar cells,0,0,0,0,0,2,10,0,0,0,0,0,1
+Principal cells,0,0,0,0,0,0,7,0,0,0,0,0,0
+Trigeminal neurons,0,0,0,0,0,0,29,0,0,0,0,0,0
+Hematopoietic stem cells,0,0,0,0,0,0,2,0,0,0,0,0,0
+Myoblasts,0,0,0,0,0,0,6,0,0,0,0,0,0
+Chondrocytes,0,0,0,0,0,0,5,0,0,0,0,0,0
+Follicular cells,0,0,0,0,0,0,2,0,0,0,0,0,0
+Cardiomyocytes,0,0,0,0,0,0,4,0,0,0,0,0,0
+Alveolar macrophages,0,0,0,0,0,0,2,0,0,0,0,0,0
+Parathyroid chief cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Urothelial cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Satellite cells,0,0,0,0,0,0,1,0,0,2,0,0,1
+Kupffer cells,0,0,0,0,0,0,5,0,0,1,0,0,0
+Distal tubule cells,0,0,0,0,0,19,45,0,0,2,0,0,3
+Osteoblasts,0,0,0,0,0,0,10,0,0,1,0,0,0
+Proximal tubule cells,0,0,0,0,0,14,59,0,0,0,0,0,2
+Intercalated cells,0,0,0,0,0,10,18,0,0,0,0,0,0
+Red pulp macrophages,0,0,0,0,0,0,8,0,0,0,0,0,0
+Paneth cells,0,0,0,0,0,2,30,0,0,0,0,0,3
+Microglia,0,0,0,0,0,0,2,0,0,0,0,0,0
+Interneurons,0,0,0,0,0,0,13,0,0,0,0,0,0
+Choroid plexus cells,0,0,0,0,0,0,3,0,0,0,0,0,0
+Neuroendocrine cells,0,0,0,0,0,0,2,0,0,0,0,0,0
+Anterior pituitary gland cells,0,0,0,0,0,0,17,0,0,0,0,0,0
+Purkinje neurons,0,0,0,0,0,0,14,0,0,0,0,0,0
+Pulmonary alveolar type I cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Foveolar cells,0,0,0,0,0,0,4,0,0,0,0,0,0
+Retinal ganglion cells,0,0,0,0,0,0,5,0,0,0,0,0,0
+Nuocytes,0,0,0,0,0,0,1,0,0,0,0,0,0
+Meningeal cells,0,0,0,0,0,0,6,0,0,0,0,0,0
+Endothelial cells (aorta),0,0,0,0,0,0,1,0,0,0,0,0,0
+Schwann cells,0,0,0,0,0,0,18,0,0,0,0,0,0
+Tuft cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Sertoli cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Stromal cells,0,0,0,0,0,0,3,0,0,0,0,0,0
+Noradrenergic neurons,0,0,0,0,0,0,2,0,0,0,0,0,0
+Granulosa cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Osteoclasts,0,0,0,0,0,0,2,0,0,0,0,0,0
+Melanocytes,0,0,0,0,0,0,1,0,0,0,0,0,0
+Neuroblasts,0,0,0,0,0,0,1,0,0,0,0,0,0
+Cajal-Retzius cells,0,0,0,0,0,0,1,0,0,0,0,0,0
+Tanycytes,0,0,0,0,0,0,6,0,0,0,0,0,0
+Olfactory epithelial cells,0,0,0,0,0,0,1,0,0,0,0,0,0

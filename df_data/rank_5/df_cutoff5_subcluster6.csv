@@ -1,0 +1,15 @@
+,VIM,HMGB2,PTMA,PPIA,LIG1,LGALS1,PCLAF,STMN1,MCM3,DUT,HMGN2,RAN
+Basal cells,0,0,0,0,0,4,0,0,0,0,0,0
+Erythroid-like and erythroid precursor cells,0,0,0,1,0,0,0,0,0,0,0,0
+T cells,0,1,4,1,0,1,0,0,0,0,0,0
+B cells,0,1,25,0,0,0,0,0,0,0,0,0
+Neutrophils,0,0,2,0,0,0,0,0,0,0,0,0
+Fibroblasts,4,0,0,0,0,17,0,0,0,0,0,0
+Endothelial cells,3,0,0,0,0,0,0,0,0,0,0,0
+T memory cells,0,1,4,1,0,1,0,0,0,0,0,0
+Hepatic stellate cells,1,0,0,0,0,0,0,0,0,0,0,0
+Mesothelial cells,0,0,0,0,0,2,0,0,0,0,0,0
+Ependymal cells,1,0,0,0,0,0,0,0,0,0,0,0
+Adipocytes,0,0,0,0,0,6,0,0,0,0,0,0
+Neural stem/precursor cells,0,0,1,0,0,0,0,3,0,0,0,0
+Schwann cells,3,0,0,0,0,1,0,0,0,0,0,0
